@@ -1,6 +1,6 @@
 // Service worker généré par html2pwa.py
 // Changez CACHE à chaque mise à jour pour forcer l'actualisation chez les utilisateurs.
-const CACHE = 'carnet-solden-gurgl-2027-961fb3c8';
+const CACHE = 'carnet-solden-gurgl-2027-0d6709e6';
 const CORE = ['./', 'index.html', 'manifest.webmanifest',
               'icon-192.png', 'icon-512.png', 'icon-maskable-512.png', 'apple-touch-icon.png'];
 
